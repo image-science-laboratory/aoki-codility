@@ -1,1 +1,1 @@
-# aoki
+# aoki-codility
